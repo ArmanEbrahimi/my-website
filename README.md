@@ -6,3 +6,4 @@ adding something locally
 updating readme on main GitHub before rebase
 adding somtething on develop branch
 I believe this line better resolve the problem
+test for editing tag option
